@@ -1,0 +1,45 @@
+body {
+	margin: 0px;
+	font-family: "Courier New";
+}
+
+p {
+	color: red;
+	font-style: oblique;
+}
+
+li {
+
+}
+
+.center {
+	text-align: center;
+}
+
+.header {
+	background: #99FFCC;
+	color: #FF0099;
+	text-align: center;
+	background-image: url(images/fade.jpg);
+}
+
+.size {
+	height: 350px;
+	width: 400px;
+}
+
+.contact {
+	background: url(images/dark_embroidery.png);
+	color: white;
+	text-align: center;
+}
+
+.contact img {
+	height: 100px;
+	width:100px;
+	border-radius: 50%;
+}
+
+.contact img:hover {
+	opacity: 0.3;
+}
